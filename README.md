@@ -30,5 +30,7 @@ Você vai precisar ter o Jupyter Notebook instalado para executar o código ou u
 - 2 - Coloque o arquivo CSV na mesma pasta do notebook Python.
 - 3 - Abra o notebook Python no Jupyter Notebook OU no Google Colabs.
 - 4 - Execute as células do notebook para carregar os dados e  realizar a análise e visualizações.
-
-## ![Python](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)&nbsp;
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Python logo gif">
+</p>
