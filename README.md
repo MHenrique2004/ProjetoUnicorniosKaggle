@@ -16,19 +16,19 @@ O objetivo deste projeto é analisar os dados sobre unicórnios para entender pa
 
 Este projeto foi desenvolvido em Python e requer a instalação das seguintes bibliotecas:
 
-**Pandas** 🐼
-**Matplotlib.pyplot*** 📈
-**Seaborn** 📈
-**Warnings** ⚠️
-**Numpy** 🔢
+- **Pandas** 🐼
+- **Matplotlib.pyplot** 📈
+- **Seaborn** 📈
+- **Warnings** ⚠️
+- **Numpy** 🔢
 
 Você vai precisar ter o Jupyter Notebook instalado para executar o código ou utilizar o Google Colabs.
 
 ## Utilização 👨‍💻
 
-1 - Faça o download do arquivo CSV da base de dados do Kaggle sobre unicórnios.
-2 - Coloque o arquivo CSV na mesma pasta do notebook Python.
-3 - Abra o notebook Python no Jupyter Notebook OU no Google Colabs.
-4 - Execute as células do notebook para carregar os dados e  realizar a análise e visualizações.
+- 1 - Faça o download do arquivo CSV da base de dados do Kaggle sobre unicórnios.
+- 2 - Coloque o arquivo CSV na mesma pasta do notebook Python.
+- 3 - Abra o notebook Python no Jupyter Notebook OU no Google Colabs.
+- 4 - Execute as células do notebook para carregar os dados e  realizar a análise e visualizações.
 
 ## ![Python](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)&nbsp;
