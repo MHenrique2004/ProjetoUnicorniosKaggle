@@ -2,6 +2,8 @@
 
 Este projeto utiliza uma base de dados do Kaggle sobre unicórnios para realizar uma análise exploratória e extrair insights sobre as empresas iniciantes de alto valor.
 
+Link do Google Colabs: https://colab.research.google.com/drive/15MbFCFKZz0t8Jyl8z6Cja8L2EZ05ynGf#scrollTo=4YfkuDSQ7dN_
+
 ## Objetivo 🎯
 
 O objetivo deste projeto é analisar os dados sobre unicórnios para entender padrões, tendências e características das empresas iniciantes de alto valor em diferentes setores e regiões geográficas.
